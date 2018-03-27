@@ -1,0 +1,17 @@
+{
+  "name": "ys-multi-spinners",
+  "version": "1.0.0",
+  "description": "nodejs loading multi spinners for ys framework",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:yskit/ys-multi-spinners.git"
+  },
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "dependencies": {
+    "is-type-of": "^1.2.0",
+    "multispinner": "^0.2.1"
+  }
+}
